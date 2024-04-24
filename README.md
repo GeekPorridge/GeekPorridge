@@ -1,5 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=GeekPorridge&color=orange)
 
+<h2>
+  <img src="https://github.com/GeekPorridge/GeekPorridge/blob/main/images/welcome.svg?raw=true" style="width: 100%;">
+</h2>
 <h3 align="center">A Full stack web developer and gaming enthusiast</h3>
 
 #### Using Languages
