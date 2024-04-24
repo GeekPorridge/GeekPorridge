@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=tokisakiyuu&color=orange)
+![](https://komarev.com/ghpvc/?username=GeekPorridge&color=orange)
 
 <h3 align="center">A Full stack web developer and gaming enthusiast</h3>
 
