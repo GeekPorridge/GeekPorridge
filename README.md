@@ -1,16 +1,19 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=tokisakiyuu&color=orange)
 
-<!--
-**GeekPorridge/GeekPorridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A Full stack web developer and gaming enthusiast</h3>
 
-Here are some ideas to get you started:
+#### Using Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img width="40" src="https://abrudz.github.io/logos/TypeScript.svg" /></a>
+<img width="40" src="https://abrudz.github.io/logos/JS.svg" />
+
+#### Using Editors
+
+<a href="https://code.visualstudio.com/" title="vscode"><img width="120" src="https://github.com/Aikoyori/ProgrammingVTuberLogos/blob/main/VSCode/VSCode-Thick.png?raw=true" /></a>
+
+#### Contact Me
+
+<a href="https://github.com/GeekPorridge/GeekPorridge/issues" title="Github"><img width="40" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg" /></a>
+<a href="mailto:xuepowuming@163.com" title="Outlook"><img width="36" src="https://github.com/GeekPorridge/GeekPorridge/blob/main/images/post-office.svg?raw=true" /></a>
+
+<h1></h1>
