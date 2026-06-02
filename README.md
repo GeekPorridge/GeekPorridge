@@ -21,46 +21,45 @@
 
 ## 🧰 技能标签
 
-### 前端核心
+### 前端
 
-| Name | Badge |
-|------|-------|
-| React | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) |
-| Next.js | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) |
-| TypeScript | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
-| JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| TailwindCSS | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) |
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+</p>
 
 ### 后端 & 数据库
 
-| Name | Badge |
-|------|-------|
-| Node.js | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) |
-| Koa2 | ![Koa](https://img.shields.io/badge/Koa-33333D?style=flat&logo=koa&logoColor=white) |
-| Prisma | ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) |
-| MongoDB | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
-| RESTful API | ![REST](https://img.shields.io/badge/REST-02569B?style=flat&logo=rest&logoColor=white) |
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Koa-33333D?style=flat&logo=koa&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST-02569B?style=flat&logo=rest&logoColor=white" />
+</p>
 
 ### 认证 & 安全
 
-| Name | Badge |
-|------|-------|
-| Next-Auth | ![NextAuth](https://img.shields.io/badge/NextAuth-6C47FF?style=flat&logo=auth0&logoColor=white) |
+<p align="left">
+  <img src="https://img.shields.io/badge/NextAuth-6C47FF?style=flat&logo=auth0&logoColor=white" />
+</p>
 
 ### 销售
 
-> 拥有1年销售经验，擅长客户沟通、需求分析与商务谈判
+> 拥有1年销售经验，擅长客户沟通、需求分析与商务谈判 
 
 | Name | Badge |
 |------|-------|
 | Sales | ![Sales](https://img.shields.io/badge/Sales-1%20Year-FF6B35?style=flat&logo=handshake&logoColor=white) |
-| ECharts | ![ECharts](https://img.shields.io/badge/ECharts-AA344D?style=flat&logo=apacheecharts&logoColor=white) |
 
 ---
 
 ## 🌐 线上项目
 
-- 🏥 [Scribo 官网](https://scribo.com.hk/zh) — 香港智能诊所 SaaS 平台
+- 🏥 [Scribo官网](https://scribo.com.hk/zh) — 香港智能诊所 SaaS 平台
 - 🛒 [buffbuff商城](https://buffbuff.com/zh-tw/) - 海外游戏商城
 - 🎮 [三角洲行动整合站](https://deltaforcetools.gg/tw) - 海外游戏整合站点
 
