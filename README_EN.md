@@ -1,27 +1,27 @@
-<h1 align="center">👋 你好，我是周杨 · 全栈工程师 · 5年经验 · Base 深圳</h1>
+<h1 align="center">👋 Hi, I'm Zhou Yang · Full-Stack Engineer · 5+ Years · Based in Shenzhen</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Clean+Code+%7C+Full+Stack;React+%2B+Node.js+%2B+TypeScript;Engineering+%7C+Component+Design" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="README_EN.md">🇺🇸 English</a>
+  <a href="README.md">🇨🇳 中文版</a>
 </p>
 
 ---
 
-## 🧑‍💻 关于我
+## 🧑‍💻 About Me
 
-- 🔭 热爱工程化、组件化与优雅代码，喜欢从数据库到页面全流程交付
-- 🌱 持续深耕 **React / Next.js / TypeScript** 技术生态
-- 💬 适应快、好沟通、习惯自测，持续学习，保持代码整洁
-- 📍 深圳 · 随时到岗
+- 🔭 Passionate about engineering, component-driven architecture, and elegant code — I enjoy delivering full-stack solutions from database to UI
+- 🌱 Deeply focused on the **React / Next.js / TypeScript** ecosystem
+- 💬 Quick to adapt, great communicator, disciplined about self-testing, and committed to clean code
+- 📍 Shenzhen, China · Available immediately
 
 ---
 
-## 🧰 技能标签
+## 🧰 Tech Stack
 
-### 前端核心
+### Frontend Core
 
 | Name | Badge |
 |------|-------|
@@ -31,7 +31,7 @@
 | JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
 | TailwindCSS | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) |
 
-### 后端 & 数据库
+### Backend & Database
 
 | Name | Badge |
 |------|-------|
@@ -41,15 +41,15 @@
 | MongoDB | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
 | RESTful API | ![REST](https://img.shields.io/badge/REST-02569B?style=flat&logo=rest&logoColor=white) |
 
-### 认证 & 安全
+### Auth & Security
 
 | Name | Badge |
 |------|-------|
 | Next-Auth | ![NextAuth](https://img.shields.io/badge/NextAuth-6C47FF?style=flat&logo=auth0&logoColor=white) |
 
-### 销售
+### Sales
 
-> 拥有1年销售经验，擅长客户沟通、需求分析与商务谈判
+> 1 year of sales experience — skilled in client communication, needs analysis & business negotiation
 
 | Name | Badge |
 |------|-------|
@@ -58,15 +58,15 @@
 
 ---
 
-## 🌐 线上项目
+## 🌐 Live Projects
 
-- 🏥 [Scribo 官网](https://scribo.com.hk/zh) — 香港智能诊所 SaaS 平台
-- 🛒 [buffbuff商城](https://buffbuff.com/zh-tw/) - 海外游戏商城
-- 🎮 [三角洲行动整合站](https://deltaforcetools.gg/tw) - 海外游戏整合站点
+- 🏥 [Scribo](https://scribo.com.hk/zh) — Hong Kong Smart Clinic SaaS Platform
+- 🛒 [buffbuff Store](https://buffbuff.com/zh-tw/) — Overseas Gaming Marketplace
+- 🎮 [Delta Force Hub](https://deltaforcetools.gg/tw) — Overseas Gaming Aggregation Site
 
 ---
 
-## 📫 联系我
+## 📫 Contact Me
 
 <p align="center">
   <a href="mailto:xuepowuming@163.com">
@@ -84,5 +84,5 @@
 </p>
 
 <p align="center">
-  <i>欢迎技术交流 or 工作机会联系 🤝</i>
+  <i>Open to tech discussions & job opportunities 🤝</i>
 </p>
